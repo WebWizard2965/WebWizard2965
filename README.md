@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WebWizard2965
 - 👀 I’m interested in AI/ML, Data Science and Backend(Python, Js)
-- 🌱 I’m currently learning B.Tech at IIIT Surat
+- 🌱 I’m currently learning B.Tech-CSE
 - 💞️ I’m looking to collaborate on projects related to AI/ML, and Backend.
 - 📫 Reach me at ahmadfaraaz2625@gmail.com
 - 😄 Pronouns: He/Him
